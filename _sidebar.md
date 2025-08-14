@@ -2,3 +2,4 @@
 * [指南](guide.md)
 * [关于](about.md)
 * [Microsoft](/m365/downloadoffice.md)
+* [Crypto](/crypto/fee.md)
