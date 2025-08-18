@@ -7,3 +7,6 @@ Office 365 Extra File Storage
 
 （每月1.5元/GB，每年18元/GB）
 
+## 查询域名MX记录
+
+https://mxtoolbox.com/SuperTool.aspx
