@@ -1,7 +1,7 @@
 # Microsoft 365 常见问题
 
 
-## 问题1: SharePoint 容量不足需要买哪个许可证？
+## 1 SharePoint 容量不足需要买哪个许可证？
 回复：
 Office 365 Extra File Storage
 
