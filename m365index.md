@@ -10,3 +10,7 @@ Office 365 Extra File Storage
 ## 查询域名MX记录
 
 https://mxtoolbox.com/SuperTool.aspx
+
+## 查看Microsoft 365 许可证包含哪些服务，许可证对比
+
+https://m365maps.com/matrix.htm
