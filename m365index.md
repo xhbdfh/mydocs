@@ -20,4 +20,4 @@ https://m365maps.com/matrix.htm
 
 ## 需要使用旧版TLS 的POP3/IMAP/SMTP
 
-[微软文档说明](mydocs/m365/popsmtpimap.md)
+[微软文档说明](/m365/popsmtpimap.md)
