@@ -21,3 +21,6 @@ https://m365maps.com/matrix.htm
 ## 需要使用旧版TLS 的POP3/IMAP/SMTP
 
 [微软文档说明](/m365/popsmtpimap.md)
+
+## 租户可用性检查
+[租户可用性检查](/M365/checkdomain.md)
