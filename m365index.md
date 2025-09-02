@@ -1,4 +1,4 @@
-# Microsoft 365 常用查询
+# Microsoft 365 知识库
 
 ## 查询域名MX记录
 
