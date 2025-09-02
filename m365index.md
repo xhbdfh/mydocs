@@ -28,10 +28,10 @@ https://m365maps.com/matrix.htm
 
 https://mxtoolbox.com/SuperTool.aspx
 
-## Microsoft 365 中国版管理中心网址
+## 中国版管理中心网址
 
 https://portal.partner.microsoftonline.cn/AdminPortal/
 
-## Microsoft 365 国际版管理中心网址
+## 国际版管理中心网址
 
 https://admin.microsoft.com
