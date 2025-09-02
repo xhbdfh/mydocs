@@ -1,7 +1,7 @@
 
 
 
-#  常用查询
+# 常用查询
 
 ## 查询域名MX记录
 
@@ -35,3 +35,16 @@ https://m365maps.com/matrix.htm
 [微软文档说明](/m365/popsmtpimap.md)
 
 
+# 常用查询
+
+## 查询域名MX记录
+
+https://mxtoolbox.com/SuperTool.aspx
+
+## Microsoft 365 中国版管理中心网址
+
+https://portal.partner.microsoftonline.cn/AdminPortal/
+
+## Microsoft 365 国际版管理中心网址
+
+https://admin.microsoft.com
