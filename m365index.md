@@ -1,22 +1,4 @@
 
-
-
-# 常用查询
-
-## 查询域名MX记录
-
-https://mxtoolbox.com/SuperTool.aspx
-
-## Microsoft 365 中国版管理中心网址
-
-https://portal.partner.microsoftonline.cn/AdminPortal/
-
-## Microsoft 365 国际版管理中心网址
-
-https://admin.microsoft.com
-
-
-
 # 常见问题
 
 ## SharePoint 容量不足需要买哪个许可证？
