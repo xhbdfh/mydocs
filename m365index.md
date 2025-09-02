@@ -1,4 +1,4 @@
-# Microsoft 365 知识库
+# Microsoft 365
 
 ## 常用查询
 
