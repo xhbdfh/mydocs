@@ -1,4 +1,4 @@
-Azure
+# Azure
 # Azure 常见问题
 ## Azure OpenAI GPT-5 价格
 
