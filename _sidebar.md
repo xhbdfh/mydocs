@@ -2,4 +2,5 @@
 * [指南](guide.md)
 * [关于](about.md)
 * [Microsoft 365](m365index.md)
+* [Azure](azureindex.md)
 * [Crypto](cryptoindex.md)
