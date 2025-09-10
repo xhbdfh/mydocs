@@ -35,3 +35,7 @@ https://portal.partner.microsoftonline.cn/AdminPortal/
 ## 国际版管理中心网址
 
 https://admin.microsoft.com
+
+## Microsoft 365 产品对比（列表方式）
+
+https://m365maps.com/matrix.htm
