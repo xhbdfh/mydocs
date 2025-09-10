@@ -9,7 +9,9 @@ Office 365 Extra File Storage
 
 （每月1.5元/GB，每年18元/GB）
 
-## 查看Microsoft 365 许可证包含哪些服务，许可证对比
+https://learn.microsoft.com/en-us/microsoft-365/commerce/add-storage-space?view=o365-worldwide
+
+## 查看Microsoft 365 许可证包含哪些服务，许可证对比（列表方式）
 
 https://m365maps.com/matrix.htm
 
@@ -36,6 +38,3 @@ https://portal.partner.microsoftonline.cn/AdminPortal/
 
 https://admin.microsoft.com
 
-## Microsoft 365 产品对比（列表方式）
-
-https://m365maps.com/matrix.htm
