@@ -4,4 +4,4 @@
 * [Microsoft 365](m365index.md)
 * [Azure](azureindex.md)
 * [Crypto](cryptoindex.md)
-* [Widnwos](windowsindex.md)
+* [Windows](windowsindex.md)
